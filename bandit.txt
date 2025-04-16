@@ -1,0 +1,22 @@
+Bandit
+
+The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
+
+
+Level0	pass - bandit0
+Level1	pass - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+Level2	pass - 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+Level3	pass - MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+Level4	pass - 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+Level5	pass - 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+Level6	pass - HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+Level7	pass - morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+Level8	pass - dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+Level9	pass - 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+Level10 pass - FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+Level11 pass - dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+Level12 pass - 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+Level13 pass - 
+
+
+More coming soon....
